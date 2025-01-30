@@ -26,3 +26,7 @@ Edit
 java -version
 ## MySQL: You will need MySQL installed and running. Make sure you create a database to store the user data.
 IDE: You can use any Java IDE such as IntelliJ IDEA, Eclipse, or NetBeans to run the project.
+
+<p align="center">
+  <img src="Bank_images/first.png" width="1059" height="574">
+</p>
