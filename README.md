@@ -27,6 +27,38 @@ java -version
 ## MySQL: You will need MySQL installed and running. Make sure you create a database to store the user data.
 IDE: You can use any Java IDE such as IntelliJ IDEA, Eclipse, or NetBeans to run the project.
 
+### First Interface
 <p align="center">
   <img src="Bank_images/first.png" width="1059" height="574">
 </p>
+
+### Second Interface
+<p align="center">
+  <img src="Bank_images/second.png" width="1039" height="979">
+</p>
+
+ ### Third Interface
+<p align="center">
+  <img src="Bank_images/third.png" width="1040" height="918">
+</p>
+
+### Fourth Interface
+<p align="center">
+  <img src="Bank_images/fourth.png" width="1041" height="990">
+</p>
+
+### Fifth Interface
+<p align="center">
+  <img src="Bank_images/fifth.png" width="1035" height="978">
+</p>
+
+### Sixth Interface
+<p align="center">
+  <img src="Bank_images/first.png" width="1527" height="1040">
+</p>
+
+### Seventh Interface
+<p align="center">
+  <img src="Bank_images/first.png" width="1532" height="1037">
+</p>
+
